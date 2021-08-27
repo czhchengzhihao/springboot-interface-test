@@ -12,6 +12,10 @@ public class SprintBootInterfaceTestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SprintBootInterfaceTestApplication.class, args);
+
+
+
+
     }
 
 }
