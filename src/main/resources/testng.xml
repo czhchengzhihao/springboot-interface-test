@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="安恒通工作台">
+    <test name="新增/修改标签-层级分类-添加页签/标签-AddOrUpdateMarkSource">
+        <!--执行case-->
+        <classes>
+            <class name="com.czh.testdemo"/>
+        </classes>
+    </test>
+</suite>
